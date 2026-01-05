@@ -1,4 +1,4 @@
-Enhancing Guest Experience Using Predictive Modeling & Demographic Clustering
+## Enhancing Guest Experience Using Predictive Modeling & Demographic Clustering
 
 This project applies machine learning and clustering techniques to hotel booking data to predict guest special requests at the time of booking and segment customers based on demographics. The goal is to help hotels improve guest experience, service personalization, and resource planning.
 
