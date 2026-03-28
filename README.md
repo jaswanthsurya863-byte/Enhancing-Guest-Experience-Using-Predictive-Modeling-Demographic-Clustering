@@ -1,7 +1,19 @@
 # Customer Segmentation & Experience Analytics
 
+End-to-end data analysis and clustering project to improve customer experience using machine learning techniques.
+
+## Tools & Technologies
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Machine Learning (Clustering, Random Forest)
+- Data Visualization
+
 ## Project Overview
 This project focuses on analyzing guest/customer data using clustering and predictive modeling techniques to improve customer experience and support business decision-making.
+
+## Business Impact
+This project helps businesses understand customer behavior and improve service personalization using data-driven insights.
 
 ## My Contributions
 - Performed data analysis and preprocessing  
